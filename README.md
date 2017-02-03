@@ -6,7 +6,7 @@ RapidBlog is a RapidWeaver plugin that connects your Flickr blog to your site.
 
 ## Download
  - [Stable Release v2.90.3](https://github.com/yourhead/rapidflickr/raw/v2.90.3/downloads/rapidflickr.2.90.3.zip)
- - [Beta v3.0.0 beta 1](https://github.com/yourhead/rapidflickr/raw/v3.0.0b1/downloads/RapidFlickr_3.0.0b1_1084.zip)
+ - [Beta v3.0.0 beta 1](http://yourhead.com/appcast/RW6/RapidFlickr/RapidFlickr_3.0.0b1_1046.zip)
 
 <img src='https://raw.githubusercontent.com/yourhead/rapidflickr/master/assets/icon_256.png' width=256 >
 
